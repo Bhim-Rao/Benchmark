@@ -22,7 +22,7 @@ python benchmark.py your_file.py
 ```
 > make sure to replace `your_file.py` with an existing filename. We've provided the example file `hello.py` 
 
-This should output something like: 
+Using our example file it should should output something like this: 
 ```yaml
 0
 64
@@ -31,6 +31,7 @@ This should output something like:
 63744256
 63872064
 
+52.0 ms
 ```
 
 ## License
