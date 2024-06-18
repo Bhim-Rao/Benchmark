@@ -10,7 +10,7 @@ This project is a python script to test how long another program takes to run
 Clone the repository:
 
 ```sh
-git clone https://github.com/Bhim-Rao/Simple-Neural.git
+git clone https://github.com/Bhim-Rao/Benchmark.git
 cd benchmark
 ```
 
