@@ -16,7 +16,7 @@ cd benchmark
 
 ## Usage
 
-#### Use these instructions for the python file
+### Use these instructions for the python file
 
 To Benchmark another file run the command
 ```sh
@@ -25,7 +25,7 @@ python benchmark.py your_file.py
 > make sure to replace `your_file.py` with an existing filename. We've provided the example file `hello.py`
 >> make sure your file is in the same directory as the program
 
-#### use these instructions for the executable
+### use these instructions for the executable
 
 To Benchmark another file run the command
 ```sh
