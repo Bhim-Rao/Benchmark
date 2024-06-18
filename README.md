@@ -7,7 +7,7 @@ This project is a python script to test how long another program takes to run
 
 ## Installation
 
-###Clone the repository:
+Clone the repository:
 
 ```sh
 git clone https://github.com/Bhim-Rao/Simple-Neural.git
@@ -16,13 +16,13 @@ cd benchmark
 
 ## Usage
 
-###To Benchmark another file run the command
+To Benchmark another file run the command
 ```sh
 python benchmark.py your_file.py
 ```
-make sure to replace `your_file.py` with an existing filename. We've provided the example file `hello.py` 
+> make sure to replace `your_file.py` with an existing filename. We've provided the example file `hello.py` 
 
-###This should output something like: 
+This should output something like: 
 ```yaml
 0
 64
