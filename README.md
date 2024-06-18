@@ -22,7 +22,7 @@ To Benchmark another file run the command
 python benchmark.py your_file.py
 ```
 > make sure to replace `your_file.py` with an existing filename. We've provided the example file `hello.py`
->> mmake sure your file is in the same directory as the program
+>> make sure your file is in the same directory as the program
 
 use these instructions for the executable
 To Benchmark another file run the command
