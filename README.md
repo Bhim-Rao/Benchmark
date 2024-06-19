@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/Bhim-Rao/Benchmark/blob/main/assets/Benchmark-Logo.png?raw=true" alt="Benxhmark Logo"/>
 </p>
 
 # Benchmark
@@ -20,24 +20,22 @@ cd benchmark
 
 ## Usage
 
-### Use these instructions for the python file
-
-To Benchmark another file run the command
+### To Benchmark a file using the python script run the command
 ```sh
 python benchmark.py your_file.py
 ```
-> make sure to replace `your_file.py` with an existing filename. We've provided the example file `hello.py`
->> make sure your file is in the same directory as the program
 
-### use these instructions for the executable
 
-To Benchmark another file run the command
+### To Benchmark a file using the executable run the command
 ```sh
 cd dist
 benchmark your_file.py
 ```
 
-Using our example file it should should output something like this: 
+> make sure to replace `your_file.py` with an existing filename. We've provided the example file `hello.py`
+>> make sure your file is in the same directory as the program
+
+### Using our example file it should should output something like this: 
 ```yaml
 0
 64
