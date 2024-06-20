@@ -18,13 +18,12 @@ git clone https://github.com/Bhim-Rao/Benchmark.git
 cd benchmark
 ```
 
-## Usage
+## Quickstart
 
 ### To Benchmark a file using the python script run the command
 ```sh
 python benchmark.py your_file.py
 ```
-
 
 ### To Benchmark a file using the executable run the command
 ```sh
@@ -46,6 +45,17 @@ benchmark your_file.py
 
 52.0 ms
 ```
+
+## Usage
+usage: benchmark [option] ... [file]
+-p     : ignores print statements from the running file
+-s     : outputs elapsed time in seconds
+-ms    : outputs elapsed time in milliseconds
+-mcs   : outputs elapsed time in microseconds
+-r num : run's the code `num` times
+
+Arguments:
+file   : program to be benchmarked
 
 ## License
 
